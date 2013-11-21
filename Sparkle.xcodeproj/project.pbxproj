@@ -292,7 +292,7 @@
 		61180BC80D64138900B4E0D1 /* SUWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SUWindowController.h; sourceTree = "<group>"; };
 		61180BC90D64138900B4E0D1 /* SUWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SUWindowController.m; sourceTree = "<group>"; };
 		611A904210240DD300CC659E /* pl */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/Sparkle.strings; sourceTree = "<group>"; };
-		611A904610240DF700CC659E /* ja */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Sparkle.strings; sourceTree = "<group>"; };
+		611A904610240DF700CC659E /* ja */ = {isa = PBXFileReference; fileEncoding = 2483028224; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Sparkle.strings; sourceTree = "<group>"; };
 		6120721009CC5C4B007FE0F6 /* SUAutomaticUpdateAlert.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SUAutomaticUpdateAlert.h; sourceTree = "<group>"; };
 		6120721109CC5C4B007FE0F6 /* SUAutomaticUpdateAlert.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SUAutomaticUpdateAlert.m; sourceTree = "<group>"; };
 		612279D90DB5470200AB99EA /* Sparkle Unit Tests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Sparkle Unit Tests.octest"; sourceTree = BUILT_PRODUCTS_DIR; };
